@@ -1,5 +1,5 @@
 # HFCEV-VRPTW Datasets
-
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.15605818.svg)](https://doi.org/10.5281/zenodo.15605818)
 Benchmark instances (Solomon-based) and a Florida case-study dataset
 used in the paper:
 
