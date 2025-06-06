@@ -11,8 +11,8 @@ used in the paper:
 ## Folder layout
 | Path | Contents |
 |------|----------|
-| `Data/benchmark/` | 64 CSV files 
-| `Data/case_florida/` | 7 CSV files
+| `Data/Solomon Benchmark/` | 64 CSV files 
+| `Data/Case Study/` | 7 CSV files
 | `README.md` | You’re reading it |
 | `LICENSE` | CC-BY-4.0 data licence |
 
